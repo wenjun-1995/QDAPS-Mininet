@@ -1,0 +1,12 @@
+table_set_default get_id get_packet_id
+table_add forward4 set_nhop_random3 10.0.0.5 => 
+table_add forward4 set_nhop_random3 10.0.0.6 => 
+table_add forward4 set_nhop_random3 10.0.0.7 =>
+table_add forward4 set_nhop_random3 10.0.0.8 => 
+table_add forward1 set_nhop 10.0.0.1 => 1
+table_add forward1 set_nhop 10.0.0.2 => 2
+table_add forward1 set_nhop 10.0.0.3 => 3
+table_add forward1 set_nhop 10.0.0.4 => 4
+
+
+

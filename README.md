@@ -1,6 +1,7 @@
 # QDAPS-Mininet
 This is the code of QDAPS which is implemented in mininet.
-1. Install P4_16 environment via [https://github.com/p4lang/p4c](https://github.com/p4lang/p4c) and [https://github.com/p4lang/behavioral-model](https://github.com/p4lang/behavioral-model).
+
+1.Install P4_16 environment via [https://github.com/p4lang/p4c](https://github.com/p4lang/p4c) and [https://github.com/p4lang/behavioral-model](https://github.com/p4lang/behavioral-model).
 
 2.Set the environment variables in the file 'env.sh' according to the actual path of bmv2 and p4c.
 

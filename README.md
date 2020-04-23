@@ -8,14 +8,14 @@ This is the code of QDAPS which is implemented in mininet.
 3.Enter to the  `/qdaps` directory. 
 `cd qdaps`
 
-4.run the program and then set the flow table. 
+4.Run the program and then set the flow table. 
 `./run_demo.sh`
 
 `./add_entry.sh`
 
-5.run wireshark to capture the packets.
+5.Run wireshark to capture the packets.
  `sudo wireshark`
 
-6.using `exit` to exit the program and use `sudo mn -c` to clean the mininet configuration files.
+6.Using `exit` to exit the program and use `sudo mn -c` to clean the mininet configuration files.
 
-7.running `./cleanup.sh` to delete the generated intermediate files.
+7.Running `./cleanup.sh` to delete the generated intermediate files.
